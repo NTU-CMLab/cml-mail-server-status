@@ -1,0 +1,28 @@
+{
+  "name": "cml-mail-server-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "console-stamp": "^0.2.4",
+    "iconv-lite": "^0.4.15",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1",
+    "tabletojson": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ssarcandy@github.com/SSARCandy/cml-mail-server-status.git"
+  },
+  "author": "SSARCandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSARCandy/cml-mail-server-status/issues"
+  },
+  "homepage": "https://github.com/SSARCandy/cml-mail-server-status#readme"
+}
